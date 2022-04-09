@@ -5,12 +5,17 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/seongho-joo/Algorithm?color=00599C)
 > 1일 1문제 노력하기 ‼️
 
+## 2022 KAKAO BLIND RECRUITMENT
+
+|  # |  ⭐  | Problem                                                  | Classification |  Note   |
+|:--:|:---:|----------------------------------------------------------|:--------------:|:-------:|
+| 01  |     | [신고 결과 받기](./src/main/java/_2022_KAKAO_BLIND_RECRUITMENT/P1) |   `스택`, `구현`   |         |
+
 ## 2020 KAKAO BLIND RECRUITMENT
 
 |  #  |  ⭐  | Problem                                                  | Classification |  Note   |
 |:---:|:---:|----------------------------------------------------------|:--------------:|:-------:|
 | 02  |     | [괄호변환](./src/main/java/_2020_KAKAO_BLIND_RECRUITMENT/P2) |   `스택`, `구현`   |         |
-
 
 ## 2019 KAKAO BLIND RECRUITMENT
 
@@ -19,7 +24,6 @@
 | 01  |     | [오픈채팅방](./src/main/java/_2019_KAKAO_BLIND_RECRUITMENT/P1) |  `문자열`, `구현`   |         |
 | 02  |     | [실패율](./src/main/java/_2019_KAKAO_BLIND_RECRUITMENT/P2)   |      `구현`      |         |
 | 03  |     | [후보키](./src/main/java/_2019_KAKAO_BLIND_RECRUITMENT/P3)   | `비트마스크`, `구현`  |         |
-
 
 ## 2019 카카오 개발자 겨울 인턴십
 
