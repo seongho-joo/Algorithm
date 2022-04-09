@@ -1,4 +1,4 @@
-# [2019 KAKAO BLIND RECRUITMENT - 2] 괄호 변환
+# [2020 KAKAO BLIND RECRUITMENT - 2] 괄호 변환
 
 ## 🔥 난이도
 `Level2`
