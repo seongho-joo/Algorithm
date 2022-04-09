@@ -12,11 +12,19 @@
 | 01  |     | [점프와 순간이동](./src/main/java/Iteration/prg12980)   | top-bottom |
 | 02  |     | [이진 변환 반복하기](./src/main/java/Iteration/prg17680) |            |
 
+## Implementation
+
+| #   | ⭐   | Problem                                     | Note |
+|-----|-----|---------------------------------------------|------|
+| 01  |     | [모음사전](./src/main/java/Implementation/모음사전) |      |
+
+
 ## 2022 KAKAO BLIND RECRUITMENT
 
-| # | ⭐ | Problem | Classification | Note | |:--:|:---:
-|----------------------------------------------------------|:--------------:|:-------:| | 01 |
-| [신고 결과 받기](./src/main/java/_2022_KAKAO_BLIND_RECRUITMENT/P1) |   `스택`, `구현`   | |
+|  #  |  ⭐  | Problem                                                      | Classification |  Note   |
+|:---:|:---:|--------------------------------------------------------------|:--------------:|:-------:|
+| 01  |     | [신고 결과 받기](./src/main/java/_2022_KAKAO_BLIND_RECRUITMENT/P1) |      `구현`      |         |
+
 
 ## 2020 KAKAO BLIND RECRUITMENT
 
