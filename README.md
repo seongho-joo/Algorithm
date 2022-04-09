@@ -5,6 +5,13 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/seongho-joo/Algorithm?color=00599C)
 > 1일 1문제 노력하기 ‼️
 
+## 2020 KAKAO BLIND RECRUITMENT
+
+|  #  |  ⭐  | Problem                                                  | Classification |  Note   |
+|:---:|:---:|----------------------------------------------------------|:--------------:|:-------:|
+| 02  |     | [괄호변환](./src/main/java/_2020_KAKAO_BLIND_RECRUITMENT/P2) |   `스택`, `구현`   |         |
+
+
 ## 2019 KAKAO BLIND RECRUITMENT
 
 |  #  |  ⭐  | Problem                                                   | Classification |  Note   |
