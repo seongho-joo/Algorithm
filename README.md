@@ -5,6 +5,12 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/seongho-joo/Algorithm?color=00599C)
 > 1일 1문제 노력하기 ‼️
 
+## 2019 카카오 개발자 겨울 인턴십
+
+|  #  |  ⭐  | Problem                                                | Classification |  Note   |
+|:---:|:---:|--------------------------------------------------------|:--------------:|:-------:|
+| 01  |     | [크레인 인형뽑기 게임](./src/main/java/_2019_카카오_개발자_겨울_인턴십/P1) |    `Stack`     |         |
+
 ## 2018 KAKAO BLIND RECRUITMENT
 
 |  #  |  ⭐  | Problem                                                           | Classification |  Note   |
