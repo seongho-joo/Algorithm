@@ -7,9 +7,10 @@
 
 ## Iteration
 
-| #   | ⭐   | Problem                                        | Note       |
-|-----|-----|------------------------------------------------|------------|
-| 01  |     | [점프와 순간이동](./src/main/java/Iteration/prg12980) | top-bottom |
+| #   | ⭐   | Problem                                          | Note       |
+|-----|-----|--------------------------------------------------|------------|
+| 01  |     | [점프와 순간이동](./src/main/java/Iteration/prg12980)   | top-bottom |
+| 02  |     | [이진 변환 반복하기](./src/main/java/Iteration/prg17680) |            |
 
 ## 2022 KAKAO BLIND RECRUITMENT
 
