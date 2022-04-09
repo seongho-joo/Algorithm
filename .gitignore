@@ -7,3 +7,4 @@ resources/
 build.gradle
 settings.gradle
 build/
+out/

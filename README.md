@@ -14,9 +14,10 @@
 
 ## Implementation
 
-| #   | ⭐   | Problem                                     | Note |
-|-----|-----|---------------------------------------------|------|
-| 01  |     | [모음사전](./src/main/java/Implementation/모음사전) |      |
+| #   | ⭐   | Problem                                                     | Note |
+|-----|-----|-------------------------------------------------------------|------|
+| 01  |     | [모음사전](./src/main/java/Implementation/모음사전)                 |      |
+| 02  |     | [로또의 최고 순위와 최저 순위](./src/main/java/Implementation/prg77484) |      |
 
 
 ## 2022 KAKAO BLIND RECRUITMENT
