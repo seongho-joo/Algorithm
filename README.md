@@ -18,6 +18,7 @@
 |-----|-----|-------------------------------------------------------------|------|
 | 01  |     | [모음사전](./src/main/java/Implementation/모음사전)                 |      |
 | 02  |     | [로또의 최고 순위와 최저 순위](./src/main/java/Implementation/prg77484) |      |
+| 03  |     | [n^2 배열 자르기](./src/main/java/Implementation/prg87390)       |      |
 
 
 ## 2022 KAKAO BLIND RECRUITMENT
