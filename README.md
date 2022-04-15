@@ -21,6 +21,11 @@
 | 03  |     | [n^2 배열 자르기](./src/main/java/Implementation/prg87390)       |      |
 | 04  |     | [스킬트리](./src/main/java/Implementation/prg49993)             |      |
 
+## Simulation
+| #   | ⭐   | Problem                                      | Note |
+|-----|-----|----------------------------------------------|------|
+| 01  |     | [방문 길이](./src/main/java/Simulation/prg49994) | 구현   |
+
 ## Divide and Conquer
 
 | #   | ⭐   | Problem                                                   | Note |
