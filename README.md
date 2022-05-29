@@ -22,6 +22,7 @@
 | 04  |     | [스킬트리](./src/main/java/Implementation/prg49993)             |      |
 
 ## Simulation
+
 | #   | ⭐   | Problem                                      | Note |
 |-----|-----|----------------------------------------------|------|
 | 01  |     | [방문 길이](./src/main/java/Simulation/prg49994) | 구현   |
@@ -37,7 +38,6 @@
 |  #  |  ⭐  | Problem                                                      | Classification |  Note   |
 |:---:|:---:|--------------------------------------------------------------|:--------------:|:-------:|
 | 01  |     | [신고 결과 받기](./src/main/java/_2022_KAKAO_BLIND_RECRUITMENT/P1) |      `구현`      |         |
-
 
 ## 2020 KAKAO BLIND RECRUITMENT
 
@@ -62,13 +62,14 @@
 
 ## 2018 KAKAO BLIND RECRUITMENT
 
-|  #  |  ⭐  | Problem                                                           | Classification |  Note   |
-|:---:|:---:|-------------------------------------------------------------------|:--------------:|:-------:|
-| 01  |     | [[1차] 비밀지도](./src/main/java/_2018_KAKAO_BLIND_RECRUITMENT/P1)     |      `구현`      |         |
-| 02  |     | [[1차] 다트게임](./src/main/java/_2018_KAKAO_BLIND_RECRUITMENT/P2)     |      `구현`      |         |
-| 03  |     | [[1차] 캐시](./src/main/java/_2018_KAKAO_BLIND_RECRUITMENT/P3)       |      `구현`      |         |
-| 05  |  ⭐  | [[1차] 뉴스 클러스터링](./src/main/java/_2018_KAKAO_BLIND_RECRUITMENT/P5) |   `구현`, `수학`   | 다시 풀어보기 |
-| 06  |     | [[1차] 프렌즈4블록](./src/main/java/_2018_KAKAO_BLIND_RECRUITMENT/P6)   |                |         |
+|  #  |  ⭐  | Problem                                                             | Classification |  Note   |
+|:---:|:---:|---------------------------------------------------------------------|:--------------:|:-------:|
+| 01  |     | [[1차] 비밀지도](./src/main/java/_2018_KAKAO_BLIND_RECRUITMENT/P1)       |      `구현`      |         |
+| 02  |     | [[1차] 다트게임](./src/main/java/_2018_KAKAO_BLIND_RECRUITMENT/P2)       |      `구현`      |         |
+| 03  |     | [[1차] 캐시](./src/main/java/_2018_KAKAO_BLIND_RECRUITMENT/P3)         |      `구현`      |         |
+| 05  |  ⭐  | [[1차] 뉴스 클러스터링](./src/main/java/_2018_KAKAO_BLIND_RECRUITMENT/P5)   |   `구현`, `수학`   | 다시 풀어보기 |
+| 06  |     | [[1차] 프렌즈4블록](./src/main/java/_2018_KAKAO_BLIND_RECRUITMENT/P6)     |                |         |
+| 10  |     | [[3차] 방금 그 곡](./src/main/java/_2018_KAKAO_BLIND_RECRUITMENT/_3차/P4) |      `구현`      |         |
 
 ## 2017 카카오 코드
 
