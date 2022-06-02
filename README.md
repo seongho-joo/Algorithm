@@ -39,6 +39,7 @@
 |-----|-----|---------------------------------------------|------|
 | 01  |     | [가장 큰 정사각형 찾기](./src/main/java/DP/prg12905) |
 | 02  |     | [2 x n 타일링](./src/main/java/DP/prg12900)    |
+| 03  |     | [3 x n 타일링](./src/main/java/DP/prg12902)    |
 
 ## 2022 KAKAO BLIND RECRUITMENT
 
