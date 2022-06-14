@@ -80,6 +80,7 @@
 | 06  |     | [[1차] 프렌즈4블록](./src/main/java/_2018_KAKAO_BLIND_RECRUITMENT/P6)     |                |         |
 | 06  |     | [[1차] 프렌즈4블록](./src/main/java/_2018_KAKAO_BLIND_RECRUITMENT/P6)     |                |         |
 | 08  |     | [[3차] 압축](./src/main/java/_2018_KAKAO_BLIND_RECRUITMENT/_3차/P2)     |      `구현`      |         |
+| 09  |     | [[3차] 파일명 정렬](./src/main/java/_2018_KAKAO_BLIND_RECRUITMENT/_3차/P3) |   `구현`, `정렬`   |         |
 | 10  |     | [[3차] 방금 그 곡](./src/main/java/_2018_KAKAO_BLIND_RECRUITMENT/_3차/P4) |      `구현`      |         |
 
 ## 2017 카카오 코드
