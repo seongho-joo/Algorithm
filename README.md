@@ -12,6 +12,12 @@
 | 01  |     | [점프와 순간이동](./src/main/java/Iteration/prg12980)   | top-bottom |
 | 02  |     | [이진 변환 반복하기](./src/main/java/Iteration/prg17680) |            |
 
+## Stack
+
+| #   | ⭐   | Problem                                  | Note |
+|-----|-----|------------------------------------------|------|
+| 01  |     | [올바른 괄호](./src/main/java/Stack/prg12909) |      |
+
 ## Implementation
 
 | #   | ⭐   | Problem                                                     | Note |
