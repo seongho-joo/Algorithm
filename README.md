@@ -84,7 +84,7 @@
 | 03  |     | [[1차] 캐시](./src/main/java/_2018_KAKAO_BLIND_RECRUITMENT/P3)         |      `구현`      |         |
 | 05  |  ⭐  | [[1차] 뉴스 클러스터링](./src/main/java/_2018_KAKAO_BLIND_RECRUITMENT/P5)   |   `구현`, `수학`   | 다시 풀어보기 |
 | 06  |     | [[1차] 프렌즈4블록](./src/main/java/_2018_KAKAO_BLIND_RECRUITMENT/P6)     |                |         |
-| 06  |     | [[1차] 프렌즈4블록](./src/main/java/_2018_KAKAO_BLIND_RECRUITMENT/P6)     |                |         |
+| 07  |     | [[3차] n진수 게임](./src/main/java/_2018_KAKAO_BLIND_RECRUITMENT/_3차/P1) |      `구현`      |         |
 | 08  |     | [[3차] 압축](./src/main/java/_2018_KAKAO_BLIND_RECRUITMENT/_3차/P2)     |      `구현`      |         |
 | 09  |     | [[3차] 파일명 정렬](./src/main/java/_2018_KAKAO_BLIND_RECRUITMENT/_3차/P3) |   `구현`, `정렬`   |         |
 | 10  |     | [[3차] 방금 그 곡](./src/main/java/_2018_KAKAO_BLIND_RECRUITMENT/_3차/P4) |      `구현`      |         |
