@@ -48,6 +48,7 @@
 | 02  |     | [2 x n 타일링](./src/main/java/DP/prg12900)    |
 | 03  |     | [3 x n 타일링](./src/main/java/DP/prg12902)    |
 | 04  |     | [땅따먹기](./src/main/java/DP/prg12913)         |
+| 05  |     | [멀리 뛰기](./src/main/java/DP/prg12914)        |
 
 ## 2022 KAKAO BLIND RECRUITMENT
 
