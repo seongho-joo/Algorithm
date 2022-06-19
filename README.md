@@ -52,10 +52,11 @@
 
 ## 2022 KAKAO BLIND RECRUITMENT
 
-|  #  |  ⭐  | Problem                                                      |    Classification     |  Note   |
-|:---:|:---:|--------------------------------------------------------------|:---------------------:|:-------:|
-| 01  |     | [신고 결과 받기](./src/main/java/_2022_KAKAO_BLIND_RECRUITMENT/P1) |         `구현`          |         |
-| 04  |     | [양궁 대회](./src/main/java/_2022_KAKAO_BLIND_RECRUITMENT/P4)    | `DFS`, `완전탐색`, `백트래킹` |         |
+|  #  |  ⭐  | Problem                                                             |    Classification     |  Note   |
+|:---:|:---:|---------------------------------------------------------------------|:---------------------:|:-------:|
+| 01  |     | [신고 결과 받기](./src/main/java/_2022_KAKAO_BLIND_RECRUITMENT/P1)        |         `구현`          |         |
+| 03  |     | [k진수에서 소수 개수 구하기](./src/main/java/_2022_KAKAO_BLIND_RECRUITMENT/P2) |         `구현`          |         |
+| 04  |     | [양궁 대회](./src/main/java/_2022_KAKAO_BLIND_RECRUITMENT/P4)           | `DFS`, `완전탐색`, `백트래킹` |         |
 
 ## 2020 KAKAO BLIND RECRUITMENT
 
