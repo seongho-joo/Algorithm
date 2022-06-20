@@ -12,6 +12,12 @@
 | 01  |     | [점프와 순간이동](./src/main/java/Iteration/prg12980)   | top-bottom |
 | 02  |     | [이진 변환 반복하기](./src/main/java/Iteration/prg17680) |            |
 
+## Bruteforce
+
+| #   | ⭐   | Problem                                       | Note |
+|-----|-----|-----------------------------------------------|------|
+| 01  |     | [숫자의 표현](./src/main/java/Bruteforce/prg12924) |      |
+
 ## Stack
 
 | #   | ⭐   | Problem                                  | Note |
