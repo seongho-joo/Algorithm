@@ -33,6 +33,7 @@
 | 03  |     | [n^2 배열 자르기](./src/main/java/Implementation/prg87390)       |      |
 | 04  |     | [스킬트리](./src/main/java/Implementation/prg49993)             |      |
 | 05  |     | [다음 큰 숫자](./src/main/java/Implementation/prg12911)          |      |
+| 06  |     | [숫자 블록](./src/main/java/Implementation/prg12923)             |      |
 
 ## Simulation
 
