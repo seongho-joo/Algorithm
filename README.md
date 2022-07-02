@@ -33,7 +33,7 @@
 | 03  |     | [n^2 배열 자르기](./src/main/java/Implementation/prg87390)       |      |
 | 04  |     | [스킬트리](./src/main/java/Implementation/prg49993)             |      |
 | 05  |     | [다음 큰 숫자](./src/main/java/Implementation/prg12911)          |      |
-| 06  |     | [숫자 블록](./src/main/java/Implementation/prg12923)             |      |
+| 06  |     | [숫자 블록](./src/main/java/Implementation/prg12923)            |      |
 
 ## Simulation
 
@@ -63,7 +63,8 @@
 |  #  |  ⭐  | Problem                                                             |    Classification     |  Note   |
 |:---:|:---:|---------------------------------------------------------------------|:---------------------:|:-------:|
 | 01  |     | [신고 결과 받기](./src/main/java/_2022_KAKAO_BLIND_RECRUITMENT/P1)        |         `구현`          |         |
-| 03  |     | [k진수에서 소수 개수 구하기](./src/main/java/_2022_KAKAO_BLIND_RECRUITMENT/P2) |         `구현`          |         |
+| 02  |     | [k진수에서 소수 개수 구하기](./src/main/java/_2022_KAKAO_BLIND_RECRUITMENT/P2) |         `구현`          |         |
+| 03  |     | [주차 요금 계산](./src/main/java/_2022_KAKAO_BLIND_RECRUITMENT/P3)        |         `구현`          |         |
 | 04  |     | [양궁 대회](./src/main/java/_2022_KAKAO_BLIND_RECRUITMENT/P4)           | `DFS`, `완전탐색`, `백트래킹` |         |
 
 ## 2020 KAKAO BLIND RECRUITMENT
