@@ -34,6 +34,7 @@
 | 04  |     | [스킬트리](./src/main/java/Implementation/prg49993)             |      |
 | 05  |     | [다음 큰 숫자](./src/main/java/Implementation/prg12911)          |      |
 | 06  |     | [숫자 블록](./src/main/java/Implementation/prg12923)            |      |
+| 07  |     | [최댓값과 최솟값](./src/main/java/Implementation/prg12939)         |      |
 
 ## Simulation
 
