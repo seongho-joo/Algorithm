@@ -64,6 +64,7 @@
 | 04  |     | [땅따먹기](./src/main/java/DP/prg12913)         |
 | 05  |     | [멀리 뛰기](./src/main/java/DP/prg12914)        |
 | 06  |     | [줄 서는 방법](./src/main/java/DP/prg12936)      |
+| 07  |     | [피보나치 수](./src/main/java/DP/prg12945)       |
 
 ## 2022 KAKAO BLIND RECRUITMENT
 
