@@ -36,6 +36,7 @@
 | 06 |   | [숫자 블록](./src/main/java/Implementation/prg12923)            |      |
 | 07 |   | [최댓값과 최솟값](./src/main/java/Implementation/prg12939)         |      |
 | 08 |   | [달리기 경주](./src/main/java/Implementation/prg178871)          |      |
+| 09 |   | [추억 점수](./src/main/java/Implementation/prg176963)           |      |
 
 ## Simulation
 
