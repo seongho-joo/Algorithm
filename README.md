@@ -14,10 +14,11 @@
 
 ## Bruteforce
 
-| #   | ⭐   | Problem                                       | Note |
-|-----|-----|-----------------------------------------------|------|
-| 01  |     | [숫자의 표현](./src/main/java/Bruteforce/prg12924) |      |
-| 02  |     | [공원 산책](./src/main/java/Bruteforce/prg172928) |      |
+| #   | ⭐   | Problem                                         | Note |
+|-----|-----|-------------------------------------------------|------|
+| 01  |     | [숫자의 표현](./src/main/java/Bruteforce/prg12924)   |      |
+| 02  |     | [공원 산책](./src/main/java/Bruteforce/prg172928)   |      |
+| 03  |     | [바탕화면 정리](./src/main/java/Bruteforce/prg161990) |      |
 
 ## Stack
 
