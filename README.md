@@ -25,6 +25,7 @@
 | #  | ⭐ | Problem                                  | Note |
 |----|---|------------------------------------------|------|
 | 01 |   | [올바른 괄호](./src/main/java/Stack/prg12909) |      |
+| 02 |   | [카드 뭉치](./src/main/java/Stack/prg159994) |      |
 
 ## Implementation
 
