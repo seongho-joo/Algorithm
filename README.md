@@ -40,6 +40,7 @@
 | 07 |   | [최댓값과 최솟값](./src/main/java/Implementation/prg12939)         |      |
 | 08 |   | [달리기 경주](./src/main/java/Implementation/prg178871)          |      |
 | 09 |   | [추억 점수](./src/main/java/Implementation/prg176963)           |      |
+| 10 |   | [둘만의 암호](./src/main/java/Implementation/prg155652)          |      |
 
 ## Simulation
 
