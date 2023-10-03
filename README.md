@@ -74,6 +74,12 @@
 | 06 |   | [줄 서는 방법](./src/main/java/DP/prg12936)      |
 | 07 |   | [피보나치 수](./src/main/java/DP/prg12945)       |
 
+## 2023 KAKAO BLIND RECRUITMENT
+
+| #  | ⭐ | Problem                                                         | Classification | Note |
+|:--:|:-:|-----------------------------------------------------------------|:--------------:|:----:|
+| 01 |   | [개인정보 수집 유효기간](./src/main/java/2023_KAKAO_BLIND_RECRUITMENT/P1) |      `구현`      |      |
+
 ## 2022 KAKAO BLIND RECRUITMENT
 
 | #  | ⭐ | Problem                                                             |    Classification     | Note |
