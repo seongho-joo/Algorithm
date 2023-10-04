@@ -41,6 +41,7 @@
 | 08 |   | [달리기 경주](./Implementation/prg178871)          |      |
 | 09 |   | [추억 점수](./Implementation/prg176963)           |      |
 | 10 |   | [둘만의 암호](./Implementation/prg155652)          |      |
+| 11 |   | [크기가 작은 부분 문자열](./Implementation/prg147355)   |      |
 
 ## Simulation
 
