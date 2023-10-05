@@ -42,6 +42,7 @@
 | 09 |   | [추억 점수](./Implementation/prg176963)           |      |
 | 10 |   | [둘만의 암호](./Implementation/prg155652)          |      |
 | 11 |   | [크기가 작은 부분 문자열](./Implementation/prg147355)   |      |
+| 12 |   | [가장 가까운 같은 글자](./Implementation/prg142086)    |      |
 
 ## Simulation
 
