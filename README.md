@@ -45,6 +45,7 @@
 | 11 |   | [크기가 작은 부분 문자열](./Implementation/prg147355)   |      |
 | 12 |   | [가장 가까운 같은 글자](./Implementation/prg142086)    |      |
 | 13 |   | [문자열 나누기](./Implementation/prg140108.py)      |      |
+| 14 |   | [이웃한 칸](./Implementation/prg250125.py)        |      |
 
 ## Simulation
 
