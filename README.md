@@ -81,6 +81,12 @@
 | 06 |   | [줄 서는 방법](./DP/prg12936)      |
 | 07 |   | [피보나치 수](./DP/prg12945)       |
 
+## 2024 KAKAO WINTER INTERNSHIP
+
+| #  | ⭐ | Problem                                             | Classification | Note |
+|:--:|:-:|-----------------------------------------------------|:--------------:|:----:|
+| 01 |   | [가장 많이 받은 선물](./2024_KAKAO_WINTER_INTERNSHIP/P1.py) | `구현`, `시뮬레이션`  |      |
+
 ## 2023 KAKAO BLIND RECRUITMENT
 
 | #  | ⭐ | Problem                                           | Classification | Note |
