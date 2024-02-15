@@ -12,6 +12,7 @@
 | 01 |   | [점프와 순간이동](./Iteration/prg12980)                     | top-bottom |
 | 02 |   | [이진 변환 반복하기](./Iteration/prg17680)                   |            |
 | 03 |   | [[PCCE 기출문제] 10번 / 데이터 분석](./Iteration/prg250121.py) |            |
+| 04 |   | [과일 장수](./Iteration/prg135808.py)                    |            |
 
 ## Bruteforce
 
